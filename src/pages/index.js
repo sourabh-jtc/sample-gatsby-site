@@ -7,10 +7,13 @@ export default function Home() {
   return (
     <Layout>
     <section className = {styles.header}>
-      <h2>Hello Patil</h2>
-      <h3>Hello From JTC</h3>
-      <p>This is The Worth Sayings 100K milestone</p>
-      <Link className={styles.btn} to='/about'> Our team</Link>
+      <div>
+        <h2>Inspire</h2>
+        <h3>Believe & Achieve</h3>
+        <p>This is The Worth Sayings</p>
+        <Link className={styles.btn} to='/projects'> My portfolio</Link>
+      </div>
+      <img src='/banner.png' alt='banner image' style = {{maxWidth:'100%'}} />
     </section>
     </Layout>
 
