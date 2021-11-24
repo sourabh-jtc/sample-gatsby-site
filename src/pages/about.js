@@ -6,8 +6,8 @@ export default function About() {
         <Layout>
         <div>
             <h1> About Team</h1>
-            <p>lorem is fine</p>
-            <p>ipsum is fine</p>
+            <p>Currently, I am working solely for building The Worth Sayings community</p>
+            <p>Its a great feeling when you add value to people's lives</p>
         </div>
         </Layout>
 
