@@ -19,6 +19,7 @@ module.exports = {
   siteMetadata:{
     title:"The Worth sayings",
     description:"Content creation on Youtube Social media handle",
-    copyright:"This channel is copyright 2021 The Worth Sayings"
+    copyright:"This channel is copyright 2021 The Worth Sayings",
+    contact:"theworthsayings@gmail.com"
   }
 }
